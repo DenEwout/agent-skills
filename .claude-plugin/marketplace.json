@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
+  "name": "denewout-skills",
+  "owner": {
+    "name": "Ewout Van Gossum",
+    "email": "ewout.vangossum@qmino.com"
+  },
+  "description": "Personal marketplace of Claude Code plugins and skills.",
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "core",
+      "source": "./plugins/core",
+      "description": "Core personal skills."
+    }
+  ]
+}

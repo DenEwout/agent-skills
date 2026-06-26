@@ -1,0 +1,5 @@
+# IDE
+.idea/
+
+# Generated documentation output (produced by the htmldoc skill)
+docs/

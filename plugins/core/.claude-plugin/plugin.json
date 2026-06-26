@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "core",
+  "displayName": "Core",
+  "version": "0.1.0",
+  "description": "Core personal skills.",
+  "author": {
+    "name": "Ewout Van Gossum",
+    "email": "ewout.vangossum@qmino.com"
+  },
+  "license": "MIT",
+  "skills": "./skills/"
+}
