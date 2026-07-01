@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "beta",
+  "displayName": "Beta",
+  "version": "0.2.0",
+  "description": "Experimental, in-progress skills not yet promoted to core.",
+  "author": {
+    "name": "Ewout Van Gossum",
+    "email": "ewout.vangossum@qmino.com"
+  },
+  "license": "MIT",
+  "skills": "./skills/"
+}
